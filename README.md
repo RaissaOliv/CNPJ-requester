@@ -1,7 +1,7 @@
-#About the code
+# About the project
   CNPJ-requester is a simple personal project which takes a CNPJ from user input and tries to find it in the receitaws api, a webservice for CNPJ search. Before the search, the code treats the user input, leaving only numbers on it, and checks if it is a valid cnpj before actually doing an api request (ex: checks if the cnpj is too short)
 
-#Prerequisites
+# Prerequisites
 
 - python
 

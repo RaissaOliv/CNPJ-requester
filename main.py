@@ -11,3 +11,4 @@ if __name__ == '__main__':
     # cnpj inválido(maior que 14, int): 178956460001877
     # cnpj inválido(menor que 14, não int): 17.895.646/0001-8
     # cnpj inválido(menor que 14, int): 1789564600018
+        
